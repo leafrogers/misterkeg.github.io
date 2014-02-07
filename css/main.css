@@ -1,10 +1,14 @@
+html {
+    color: #222;
+    font: normal 1em/1.4 Helvetica,Arial,sans-serif;
+    line-height: 1.4;
+}
+
 body {
-    font: 62.5%/1.7em normal Helvetica,Arial,sans-serif;
-    margin: 5em;
+	margin: 3em;
 }
 
 p {
-    font-size: 1.4em;
     margin: 1em 0;
 }
 
